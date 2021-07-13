@@ -1,0 +1,34 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ctf-script:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ctf_script_jar</output-path>
+    <root id="archive" name="ctf-script.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/main/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="ctf-script" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../maven/LocalWarehouse/com/alibaba/fastjson/1.2.48/fastjson-1.2.48.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../maven/LocalWarehouse/com/google/code/findbugs/jsr305/3.0.1/jsr305-3.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../maven/LocalWarehouse/org/apache/httpcomponents/httpclient/4.5.2/httpclient-4.5.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../maven/LocalWarehouse/org/apache/httpcomponents/httpclient-cache/4.5.2/httpclient-cache-4.5.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../maven/LocalWarehouse/org/slf4j/slf4j-api/1.7.10/slf4j-api-1.7.10.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../maven/LocalWarehouse/commons-logging/commons-logging/1.1/commons-logging-1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../maven/LocalWarehouse/org/apache/httpcomponents/httpcore/4.4.5/httpcore-4.4.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../maven/LocalWarehouse/log4j/log4j/1.2.12/log4j-1.2.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../maven/LocalWarehouse/commons-io/commons-io/2.4/commons-io-2.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../maven/LocalWarehouse/com/squareup/okio/okio/1.17.2/okio-1.17.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../maven/LocalWarehouse/com/googlecode/juniversalchardet/juniversalchardet/1.0.3/juniversalchardet-1.0.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../maven/LocalWarehouse/com/squareup/okhttp3/okhttp/3.14.9/okhttp-3.14.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../maven/LocalWarehouse/org/projectlombok/lombok/1.18.20/lombok-1.18.20.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../maven/LocalWarehouse/commons-codec/commons-codec/1.9/commons-codec-1.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../maven/LocalWarehouse/org/apache/httpcomponents/httpmime/4.5.2/httpmime-4.5.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../maven/LocalWarehouse/com/alibaba/QLExpress/3.2.0/QLExpress-3.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../maven/LocalWarehouse/logkit/logkit/1.0.1/logkit-1.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../maven/LocalWarehouse/com/dtflys/forest/forest-core/1.5.0/forest-core-1.5.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../maven/LocalWarehouse/commons-beanutils/commons-beanutils/1.8.2/commons-beanutils-1.8.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../maven/LocalWarehouse/avalon-framework/avalon-framework/4.1.3/avalon-framework-4.1.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../maven/LocalWarehouse/org/apache/httpcomponents/httpcore-nio/4.4.5/httpcore-nio-4.4.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../maven/LocalWarehouse/org/apache/httpcomponents/httpasyncclient/4.1.2/httpasyncclient-4.1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../maven/LocalWarehouse/commons-lang/commons-lang/2.4/commons-lang-2.4.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
